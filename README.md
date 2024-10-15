@@ -36,7 +36,7 @@ The project aims to assist individuals in making informed decisions when compari
 
 ---
 
-## Prerequisites
+## Pre-requisites
 
 - **Python 3.x**: Ensure you have Python installed on your machine.
 - **Pandas Library**: Install it using the following command: "pip install pandas"
